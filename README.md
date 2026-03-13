@@ -25,3 +25,5 @@ Repository Contents:
 - Arduino source code
 - Wiring diagrams
 - Design documentation
+
+https://github.com/user-attachments/assets/aebb44fe-08c6-47d2-9324-f8be980b4feb
